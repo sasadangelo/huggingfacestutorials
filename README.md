@@ -7,6 +7,8 @@ This repository contains the tutorial of the Hugging Faces Course [here](https:/
 Each folder of this folder contains a Tutorials. All the tutorials are listed in the next section. However, before run whatever scenario you needd to setup
 your Python Virtual Environment. You'll find this information in the first tutorial [Setup a Python Virtual Environment](setupenv/README.md).
 
+Moreover, before you start make sure you understand [What is NLP?](https://huggingface.co/learn/nlp-course/chapter1/2?fw=pt)
+
 ## Tutorials
 
 The following are the tutorials of the course.
