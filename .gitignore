@@ -1,0 +1,3 @@
+setupenv/.env/**
+transformers/.env/**
+transformers/__pycache__/**
